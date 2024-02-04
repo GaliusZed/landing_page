@@ -4,3 +4,7 @@ body, footer {
     justify-content: center;
 
 }
+
+button {
+    background-color: #3882F6;
+}
